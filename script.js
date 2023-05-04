@@ -50,3 +50,6 @@ var carpismaKOntrol =setInterval(function(){
             },200)
         }
 },10);
+
+
+
